@@ -1,0 +1,10 @@
+Open SnapshotCatcher_04022020.exe Form Dist Folder
+Add Moving model source path to the Provide Some Model Details section
+Add Model xml to the Upload Metadata Xml
+Add destination path to the Snapshot path
+Secelce skin(only one at a time) or start from biggining 
+Open Model to creator
+Click on Generate Snapshot
+
+* Don't touch the keyboard or mouse when the snapshot will be taken
+* Don't copy the exe file to any other directory
